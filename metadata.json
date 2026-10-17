@@ -1,0 +1,6 @@
+{
+  "name": "BrandVoice AI - Brand Tweet Generator",
+  "description": "AI-powered brand tweet generator that analyzes brand voice and creates 10 audience-aligned tweets across conversational, promotional, witty, informative, and community categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
